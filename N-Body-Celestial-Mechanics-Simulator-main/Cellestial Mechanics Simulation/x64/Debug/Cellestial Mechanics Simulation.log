@@ -1,0 +1,8 @@
+﻿  frames.c
+C:\Users\folad\Downloads\N-Body-Celestial-Mechanics-Simulator-main\N-Body-Celestial-Mechanics-Simulator-main\Cellestial Mechanics Simulation\frames.c(8,35): warning C4028: formal parameter 2 different from declaration
+C:\Users\folad\Downloads\N-Body-Celestial-Mechanics-Simulator-main\N-Body-Celestial-Mechanics-Simulator-main\Cellestial Mechanics Simulation\frames.c(8,50): warning C4028: formal parameter 3 different from declaration
+C:\Users\folad\Downloads\N-Body-Celestial-Mechanics-Simulator-main\N-Body-Celestial-Mechanics-Simulator-main\Cellestial Mechanics Simulation\frames.c(38,19): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\folad\Downloads\N-Body-Celestial-Mechanics-Simulator-main\N-Body-Celestial-Mechanics-Simulator-main\Cellestial Mechanics Simulation\frames.c(39,19): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\folad\Downloads\N-Body-Celestial-Mechanics-Simulator-main\N-Body-Celestial-Mechanics-Simulator-main\Cellestial Mechanics Simulation\frames.c(73,47): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\folad\Downloads\N-Body-Celestial-Mechanics-Simulator-main\N-Body-Celestial-Mechanics-Simulator-main\Cellestial Mechanics Simulation\frames.c(73,59): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Cellestial Mechanics Simulation.vcxproj -> C:\Users\folad\Downloads\N-Body-Celestial-Mechanics-Simulator-main\N-Body-Celestial-Mechanics-Simulator-main\x64\Debug\Cellestial Mechanics Simulation.exe
